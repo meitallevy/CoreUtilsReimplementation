@@ -5,7 +5,7 @@ This project is a personal learning exercise where I reimplemented two classic U
 - **`dog`** → a simplified version of [`cat`](https://man7.org/linux/man-pages/man1/cat.1.html), for printing file contents.  
 - **`elles`** → a simplified version of [`ls`](https://man7.org/linux/man-pages/man1/ls.1.html), for listing directory contents.  
 
-The names are a playful twist: every `cat` vs. `dog` and `elles` sounds like `l` and `s`. 
+The names are a playful twist: `cat` vs. `dog` and `elles` sounds like `l` and `s`. 
 
 ---
 
